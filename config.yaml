@@ -3,9 +3,17 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        SLAM: 5
+        visual odometry: 3
+        nerf: 3
+        neural radiance fields: 3
+        Fusion: 2
+        LiDAR: 1
+        Camera: 1
+        object Detection: 2
+        semantic segmentation: 2
+        feature matching: 3
+        3D: 1
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 3
